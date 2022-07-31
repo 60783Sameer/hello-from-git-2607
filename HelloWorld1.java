@@ -1,9 +1,6 @@
 
 public class HelloWorld1 {
-	public String SayHello() {
-		System.out.println("Hello Sameer  ");
-		
-		return "Hello World!!!!!!!!!";
+	public static void main(String[] args) {
+		System.out.println(" Hello World again");
 	}
-
 }
